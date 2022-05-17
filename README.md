@@ -1,7 +1,7 @@
 # Bandit-OverTheWire
 <details>
 
-<summary> Bandit0 (Click Me)</summary>
+<summary> Bandit 0 (Click Me)</summary>
 
 - Connecting using SSH
     - `**ssh bandit0@bandit.labs.overthewire.org -p 2220**`
